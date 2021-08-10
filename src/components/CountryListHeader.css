@@ -1,0 +1,19 @@
+#country-list-header {
+  background-color: darkgoldenrod;
+  padding: 5px;
+}
+
+#country-list-header h1 {
+  margin-left: 10px;
+}
+
+#country-list-header nav ul {
+  overflow: auto;
+  margin-left: 10px;
+}
+
+#country-list-header nav ul li {
+  float: left;
+  list-style: NONE;
+  margin-right: 10px;
+}
